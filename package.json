@@ -12,7 +12,7 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "inquirer": "^7.3.2",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "weather-js": "^2.0.0"
   }
 }
